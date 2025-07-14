@@ -60,12 +60,8 @@
 
 ## 🖼️ ক্যাশিং এর কার্যপ্রণালী (সাধারণ উদাহরণ)
 
-```
-[Client Request] → [Cache] → [Data found?]
-↓ Yes            ↓ No
-\[Return Data] → \[Database] → \[Cache Update] → \[Return Data]
+<img src="../assets/diagrams/caching-workflow.png" alt="Caching Workflow" style="width:50%;"/>
 
-```
 
 ---
 
